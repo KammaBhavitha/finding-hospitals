@@ -1,0 +1,54 @@
+14:40:43.415 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON DENTIST
+14:40:47.623 [main] INFO  testCases.TC_003_healthandwellness - APPLYING THE FILTERS TO FIND DOCTORS
+14:41:08.957 [main] INFO  testCases.TC_003_healthandwellness - GETTING TOP FIVE DENTISTS
+14:41:13.504 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON SURGERIES
+14:41:29.959 [main] INFO  testCases.TC_003_healthandwellness - GETTING ALL THE SURGERIES
+14:42:46.031 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON HEALTH AND WELLNESS
+14:42:55.849 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING SCHEDULE A DEMO FORM WITH INVALID DETAILS
+14:42:58.257 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING SCHEDULE A DEMO FORM WITH VALID DETAILS
+14:43:00.763 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING THANKYOU MESSAGE
+10:49:26.855 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON FIND DOCTORS
+10:49:30.067 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON DENTIST
+10:49:34.444 [main] INFO  testCases.TC_003_healthandwellness - APPLYING THE FILTERS TO FIND DOCTORS
+10:50:28.415 [main] INFO  testCases.TC_003_healthandwellness - GETTING TOP FIVE DENTISTS
+10:50:34.737 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON SURGERIES
+10:50:47.255 [main] INFO  testCases.TC_003_healthandwellness - GETTING ALL THE SURGERIES
+10:51:39.086 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON HEALTH AND WELLNESS
+10:53:05.749 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING SCHEDULE A DEMO FORM WITH INVALID DETAILS
+10:53:07.719 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING SCHEDULE A DEMO FORM WITH VALID DETAILS
+10:53:09.663 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING THANKYOU MESSAGE
+11:46:06.718 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON FIND DOCTORS
+11:46:39.287 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON DENTIST
+11:46:40.648 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON SURGERIES
+11:46:54.384 [main] INFO  testCases.TC_003_healthandwellness - GETTING ALL THE SURGERIES
+11:47:39.330 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON HEALTH AND WELLNESS
+11:48:24.639 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING SCHEDULE A DEMO FORM WITH INVALID DETAILS
+11:48:35.084 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING SCHEDULE A DEMO FORM WITH VALID DETAILS
+11:48:45.523 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING THANKYOU MESSAGE
+11:52:58.890 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON FIND DOCTORS
+11:53:36.510 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON DENTIST
+11:53:38.070 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON SURGERIES
+11:53:51.689 [main] INFO  testCases.TC_003_healthandwellness - GETTING ALL THE SURGERIES
+11:54:34.432 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON HEALTH AND WELLNESS
+11:55:19.602 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING SCHEDULE A DEMO FORM WITH INVALID DETAILS
+11:59:01.115 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON FIND DOCTORS
+11:59:35.210 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON DENTIST
+11:59:36.486 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON SURGERIES
+12:00:37.893 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON FIND DOCTORS
+12:01:13.282 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON DENTIST
+12:01:14.663 [main] INFO  testCases.TC_003_healthandwellness - APPLYING THE FILTERS TO FIND DOCTORS
+12:01:28.486 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON SURGERIES
+12:02:46.892 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON FIND DOCTORS
+12:03:18.649 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON DENTIST
+12:03:19.860 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON SURGERIES
+12:03:35.885 [main] INFO  testCases.TC_003_healthandwellness - GETTING ALL THE SURGERIES
+12:07:36.063 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON FIND DOCTORS
+12:13:20.906 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON FIND DOCTORS
+12:13:53.440 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON DENTIST
+12:13:54.785 [main] INFO  testCases.TC_003_healthandwellness - APPLYING THE FILTERS TO FIND DOCTORS
+12:14:08.236 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON SURGERIES
+12:14:24.618 [main] INFO  testCases.TC_003_healthandwellness - GETTING ALL THE SURGERIES
+12:15:07.339 [main] INFO  testCases.TC_003_healthandwellness - CLICKING ON HEALTH AND WELLNESS
+12:15:27.636 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING SCHEDULE A DEMO FORM WITH INVALID DETAILS
+12:15:27.669 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING SCHEDULE A DEMO FORM WITH VALID DETAILS
+12:15:27.689 [main] INFO  testCases.TC_003_healthandwellness - VALIDATING THANKYOU MESSAGE
