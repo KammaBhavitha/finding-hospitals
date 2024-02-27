@@ -4,17 +4,16 @@
 <listeners>
 <listener class-name="utilities.extentReportManager"/>
 </listeners>
-
-<test thread-count="5" name="Test">
 <parameter name="os" value="Windows"/>
-<parameter name="browser" value="chrome"/>
-<groups>
-<run>
-<include name="masters"/>
-</run>
-</groups>
-<classes>
-<class name="testCases.TC_003_healthandwellness"/>
-</classes> 
-</test> <!-- Test -->
-</suite> <!-- Suite -->
+<parameter name="browser" value="edge"/>
+  <test thread-count="5" name="Test">
+  <groups>
+			<run>
+				<include name="master" />
+			</run>
+		</groups>
+  <classes>
+  <class name="testCases.TC_003_healthandwellness"/>
+  </classes>
+  </test>
+</suite> 

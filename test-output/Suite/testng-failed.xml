@@ -10,9 +10,9 @@
     <classes>
       <class name="testCases.TC_003_healthandwellness">
         <methods>
+          <include name="test_validdetails"/>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="test_surgeriespage"/>
         </methods>
       </class> <!-- testCases.TC_003_healthandwellness -->
     </classes>

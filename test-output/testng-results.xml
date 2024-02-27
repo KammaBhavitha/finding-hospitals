@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-15T11:40:34 IST" name="Suite" finished-at="2024-02-15T11:45:53 IST" duration-ms="318933">
+  <suite started-at="2024-02-19T12:52:58 IST" name="Suite" finished-at="2024-02-19T12:58:12 IST" duration-ms="314185">
     <groups>
       <group name="regression">
         <method signature="TC_002_surgeries.test_surgeriespage()[pri:1, instance:testCases.TC_003_healthandwellness@5524cca1]" name="test_surgeriespage" class="testCases.TC_002_surgeries"/>
@@ -31,9 +31,9 @@
         <method signature="TC_003_healthandwellness.test_validatethankyou()[pri:7, instance:testCases.TC_003_healthandwellness@5524cca1]" name="test_validatethankyou" class="testCases.TC_003_healthandwellness"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-02-15T11:40:34 IST" name="Test" finished-at="2024-02-15T11:45:53 IST" duration-ms="318933">
+    <test started-at="2024-02-19T12:52:58 IST" name="Test" finished-at="2024-02-19T12:58:12 IST" duration-ms="314185">
       <class name="testCases.TC_003_healthandwellness">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-15T11:40:34 IST" name="setup" finished-at="2024-02-15T11:41:19 IST" duration-ms="44587" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-19T12:52:59 IST" name="setup" finished-at="2024-02-19T12:53:39 IST" duration-ms="39957" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -49,43 +49,43 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_practohomepage()[pri:-1, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-15T11:41:19 IST" name="test_practohomepage" finished-at="2024-02-15T11:42:20 IST" duration-ms="61436" status="PASS">
+        <test-method signature="test_practohomepage()[pri:-1, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-19T12:53:39 IST" name="test_practohomepage" finished-at="2024-02-19T12:54:39 IST" duration-ms="60519" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_practohomepage -->
-        <test-method signature="test_doctorspage()[pri:0, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-15T11:42:21 IST" name="test_doctorspage" finished-at="2024-02-15T11:43:54 IST" duration-ms="93237" status="PASS">
+        <test-method signature="test_doctorspage()[pri:0, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-19T12:54:39 IST" name="test_doctorspage" finished-at="2024-02-19T12:56:33 IST" duration-ms="113023" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_doctorspage -->
-        <test-method signature="test_surgeriespage()[pri:1, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-15T11:43:55 IST" name="test_surgeriespage" finished-at="2024-02-15T11:44:00 IST" duration-ms="5286" status="PASS">
+        <test-method signature="test_surgeriespage()[pri:1, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-19T12:56:33 IST" name="test_surgeriespage" finished-at="2024-02-19T12:56:36 IST" duration-ms="3131" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_surgeriespage -->
-        <test-method signature="test_popsurgeries()[pri:2, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-15T11:44:01 IST" name="test_popsurgeries" finished-at="2024-02-15T11:44:10 IST" duration-ms="9210" status="PASS">
+        <test-method signature="test_popsurgeries()[pri:2, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-19T12:56:37 IST" name="test_popsurgeries" finished-at="2024-02-19T12:56:41 IST" duration-ms="4607" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_popsurgeries -->
-        <test-method signature="test_getsurgeriespage()[pri:3, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-15T11:44:10 IST" name="test_getsurgeriespage" finished-at="2024-02-15T11:44:49 IST" duration-ms="39114" status="PASS">
+        <test-method signature="test_getsurgeriespage()[pri:3, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-19T12:56:41 IST" name="test_getsurgeriespage" finished-at="2024-02-19T12:57:17 IST" duration-ms="35300" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_getsurgeriespage -->
-        <test-method signature="test_details()[pri:4, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-15T11:44:50 IST" name="test_details" finished-at="2024-02-15T11:45:36 IST" duration-ms="45715" status="PASS">
+        <test-method signature="test_details()[pri:4, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-19T12:57:17 IST" name="test_details" finished-at="2024-02-19T12:57:56 IST" duration-ms="39192" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_details -->
-        <test-method signature="test_invaliddetails()[pri:5, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-15T11:45:36 IST" name="test_invaliddetails" finished-at="2024-02-15T11:45:38 IST" duration-ms="1786" status="PASS">
+        <test-method signature="test_invaliddetails()[pri:5, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-19T12:57:57 IST" name="test_invaliddetails" finished-at="2024-02-19T12:57:58 IST" duration-ms="945" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_invaliddetails -->
-        <test-method signature="test_validdetails()[pri:6, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-15T11:45:39 IST" name="test_validdetails" finished-at="2024-02-15T11:45:40 IST" duration-ms="1731" status="PASS">
+        <test-method signature="test_validdetails()[pri:6, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-19T12:57:58 IST" name="test_validdetails" finished-at="2024-02-19T12:57:59 IST" duration-ms="980" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_validdetails -->
-        <test-method signature="test_validatethankyou()[pri:7, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-15T11:45:41 IST" name="test_validatethankyou" finished-at="2024-02-15T11:45:51 IST" duration-ms="10065" status="PASS">
+        <test-method signature="test_validatethankyou()[pri:7, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-19T12:57:59 IST" name="test_validatethankyou" finished-at="2024-02-19T12:58:11 IST" duration-ms="11623" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_validatethankyou -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-15T11:45:51 IST" name="tearDown" finished-at="2024-02-15T11:45:53 IST" duration-ms="1392" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_003_healthandwellness@5524cca1]" started-at="2024-02-19T12:58:11 IST" name="tearDown" finished-at="2024-02-19T12:58:12 IST" duration-ms="1204" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

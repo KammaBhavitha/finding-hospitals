@@ -94,11 +94,9 @@ public class surgeriespage extends BasePage{
 			l++;
 			js.executeScript("arguments[0].click()",cross);
 			System.out.println();
-		}
-			
-		}
-	
+		}	
 		
+		}
 		
 }
 

@@ -30,7 +30,7 @@ public class BaseClass {
  
 	public Properties p;
  
-	@BeforeClass
+	@BeforeClass(groups= {"master"})
 	@Parameters({"os", "browser"})
 	public void setup(String os, String br) throws IOException, InterruptedException {
  
@@ -128,7 +128,7 @@ public class BaseClass {
  
 	}
  
-	@AfterClass
+	@AfterClass(groups= {"master"})
  
 	public void tearDown() {
  

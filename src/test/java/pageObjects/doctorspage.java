@@ -49,7 +49,7 @@ public class doctorspage extends BasePage{
 	@FindBy(xpath="//span[@data-qa-id='all_filters']")
 	WebElement allfilters;
 	
-	@FindBy(xpath="//span[text()='Above ₹500']")
+	@FindBy(xpath="//label[@for='Fees1']")
 	WebElement fees;
 	
 	@FindBy(xpath="//span[@data-qa-id='Available Today_label']")
